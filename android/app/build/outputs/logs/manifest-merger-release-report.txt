@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.57.4] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/d34f1a4493e46d0430980313032eabeb/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/be847c747a966fe611a9851c6c2ae441/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/b60c957bb682f7556de3c51c1ff688f3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/768f0cde3477ae658c6939260cd4462d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/6ba4bee68fb372f20db33d64c2f052f7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/10fe17db562aba97719966e536d5daae/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/88fbcd5dca3d7c6253360f42ddf6d160/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/660aec3ae020e58f1cb18c55cbb96563/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/c0bd57a437ac7bafed1254718756da7f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/7c21c0e49bdd03a2dc79cfc6449c8aed/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/df19f162a7976204e01aaed8b286b961/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/c7f6812e280e33c817ee6b542a455eb3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/31d002506e13aa4ef37ddd808e046262/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/d07c0c1bd81c331710e033c3f70617b0/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/539f8d38f1a619441d109486f3d3ae31/AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/a0d1b884154051a2fc89144d71521bae/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c2f0daa78f8c3c275aa29c059857bc5b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/dc8577d4fa5abc8eaafc1c832ad309b3/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d26e663d623354aef426b1dd5fb97205/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8f322836a2324130cf789808455d3b0a/AndroidManifest.xml:17:1-22:12
+INJECTED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml:2:5-22
+		INJECTED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml
+		ADDED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml
+		ADDED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.4] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/d34f1a4493e46d0430980313032eabeb/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.4] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/d34f1a4493e46d0430980313032eabeb/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.57.4] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/d34f1a4493e46d0430980313032eabeb/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.4] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/d34f1a4493e46d0430980313032eabeb/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/d07c0c1bd81c331710e033c3f70617b0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/d07c0c1bd81c331710e033c3f70617b0/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/539f8d38f1a619441d109486f3d3ae31/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/539f8d38f1a619441d109486f3d3ae31/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.ses.MainActivity
+ADDED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml
+INJECTED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.57.4] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/d34f1a4493e46d0430980313032eabeb/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.4] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/d34f1a4493e46d0430980313032eabeb/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/be847c747a966fe611a9851c6c2ae441/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/be847c747a966fe611a9851c6c2ae441/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/b60c957bb682f7556de3c51c1ff688f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/b60c957bb682f7556de3c51c1ff688f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/768f0cde3477ae658c6939260cd4462d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/768f0cde3477ae658c6939260cd4462d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/6ba4bee68fb372f20db33d64c2f052f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/6ba4bee68fb372f20db33d64c2f052f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/10fe17db562aba97719966e536d5daae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/10fe17db562aba97719966e536d5daae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/88fbcd5dca3d7c6253360f42ddf6d160/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/88fbcd5dca3d7c6253360f42ddf6d160/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/660aec3ae020e58f1cb18c55cbb96563/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/660aec3ae020e58f1cb18c55cbb96563/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/c0bd57a437ac7bafed1254718756da7f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/c0bd57a437ac7bafed1254718756da7f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/7c21c0e49bdd03a2dc79cfc6449c8aed/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/7c21c0e49bdd03a2dc79cfc6449c8aed/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/df19f162a7976204e01aaed8b286b961/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/df19f162a7976204e01aaed8b286b961/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/c7f6812e280e33c817ee6b542a455eb3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/c7f6812e280e33c817ee6b542a455eb3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/31d002506e13aa4ef37ddd808e046262/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/31d002506e13aa4ef37ddd808e046262/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/d07c0c1bd81c331710e033c3f70617b0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/d07c0c1bd81c331710e033c3f70617b0/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/a0d1b884154051a2fc89144d71521bae/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/a0d1b884154051a2fc89144d71521bae/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c2f0daa78f8c3c275aa29c059857bc5b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c2f0daa78f8c3c275aa29c059857bc5b/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/dc8577d4fa5abc8eaafc1c832ad309b3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/dc8577d4fa5abc8eaafc1c832ad309b3/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d26e663d623354aef426b1dd5fb97205/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d26e663d623354aef426b1dd5fb97205/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8f322836a2324130cf789808455d3b0a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/grupoflora/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8f322836a2324130cf789808455d3b0a/AndroidManifest.xml:20:5-44
+INJECTED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml
+INJECTED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml
+		ADDED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml
+		ADDED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Applications/MAMP/htdocs/react-native/series/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

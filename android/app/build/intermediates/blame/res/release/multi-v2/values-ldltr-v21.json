@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Applications/MAMP/htdocs/react-native/series/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/Users/grupoflora/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/be847c747a966fe611a9851c6c2ae441/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

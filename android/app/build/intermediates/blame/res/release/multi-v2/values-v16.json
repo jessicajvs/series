@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Applications/MAMP/htdocs/react-native/series/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/grupoflora/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/be847c747a966fe611a9851c6c2ae441/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/Users/grupoflora/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/660aec3ae020e58f1cb18c55cbb96563/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}
